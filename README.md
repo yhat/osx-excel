@@ -16,3 +16,5 @@
 - Select the `YhatHelpers.xlam` file you downloaded (It's probably in your `Downloads` folder)
 - Enjoy!
 
+## Shortcuts
+__cmd + option + shift + f__: Autofit column(s)
