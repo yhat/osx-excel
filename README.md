@@ -4,7 +4,7 @@
 - Download [YhatHelpers.xlam](https://github.com/yhat/osx-excel/raw/master/YhatHelpers.xlam)
 - Open Excel, go to `Tools > Add-Ins`
 - Click `Select`
-- Select the `YhatHelpers.xlam` file you downloaded
+- Select the `YhatHelpers.xlam` file you downloaded (It's probably in your `Downloads` folder)
 - Enjoy!
 
 
