@@ -6,7 +6,7 @@
 
 > This project aims to improve Excel user experience for OS X users.
 
-> Requests keyboard shortcuts and other features by submitting issues thru Github.
+> Requests keyboard shortcuts and other features by [submitting issues thru Github](https://github.com/yhat/osx-excel/issues).
 
 
 ## Installation
